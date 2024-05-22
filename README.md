@@ -5,9 +5,7 @@
 
 Je suis un jeune passioné de développement et de programmation en tout genre.
 
-
-
-![Oomaxime's Stats](https://github-readme-stats.vercel.app/api?username=Jeck0v&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Arnaud Stats](https://github-readme-stats.vercel.app/api?username=Jeck0v&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🧐 A propos de moi
@@ -25,30 +23,6 @@ Je suis un jeune passioné de développement et de programmation en tout genre.
 [![My Skills](https://skillicons.dev/icons?i=postgres,firebase,supabase,mongodb,mysql)](https://github.com/Jeck0v)
 ### Outils
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,phpstorm,pycharm)](https://github.com/Jeck0v)
-
-
-##  En cours d'apprentissage…
-
-### Lib & Framework
-  - React
-  - Next.js
-  - TypeScript
-  - Tailwinds CSS
-
-
-###  Projets
-  - Todo  list avec React & Next.js
-  - Application web pour Dekuple
-
-
-##  J'aimerais apprendre
-
-- GO
-- Rust
-- Java
-- Rubis
-- Kotlin
-- Perl
 
 
 ## ❤️ Me contacter
