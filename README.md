@@ -1,6 +1,7 @@
 # <p>Hello Moi, c'est Arnaud ! Bienvenue chez moi !</p>
  
 <br>
+
 ***Actuellement à la recherche d'une Alternance***
 
 Je suis un jeune passioné de développement et de programmation en tout genre.
@@ -25,6 +26,4 @@ Je suis un jeune passioné de développement et de programmation en tout genre.
 
 
 ## ❤️ Me contacter
-
-### Mon [LinkedIn](www.linkedin.com/in/arnaud-fischer-9616332a2) <br>
-Merci pour votre attention
+[![My Contact](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/arnaud-fischer-9616332a2)
