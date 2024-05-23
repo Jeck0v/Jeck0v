@@ -16,9 +16,9 @@ Je suis un jeune passioné de développement et de programmation en tout genre.
 
 ##  Mes Langages & Outils
 ### Front
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react)](https://github.com/Jeck0v)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://github.com/Jeck0v)
 ### Back
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,django,php)](https://github.com/Jeck0v)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,django,php,nextjs)](https://github.com/Jeck0v)
 ### SQL & NoSQL
 [![My Skills](https://skillicons.dev/icons?i=postgres,firebase,supabase,mongodb,mysql)](https://github.com/Jeck0v)
 ### Outils
