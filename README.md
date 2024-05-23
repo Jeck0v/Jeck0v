@@ -1,11 +1,10 @@
-# <p align="center">Hello !</p>
- Moi, c'est Arnaud ! Bienvenue chez moi !
+# <p>Hello Moi, c'est Arnaud ! Bienvenue chez moi !</p>
+ 
 <br>
 ***Actuellement à la recherche d'une Alternance***
 
 Je suis un jeune passioné de développement et de programmation en tout genre.
 
- ![Arnaud Stats](https://github-readme-stats.vercel.app/api?username=Jeck0v&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
 
 ## 🧐 A propos de moi
