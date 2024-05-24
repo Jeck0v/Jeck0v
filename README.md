@@ -26,4 +26,4 @@ Je suis un jeune passioné de développement et de programmation en tout genre.
 
 
 ## ❤️ Me contacter
-Mon [LinkedIn](www.linkedin.com/in/arnaud-fischer-9616332a2)
+Mon lien LinkedIn: www.linkedin.com/in/arnaud-fischer-9616332a2
