@@ -10,7 +10,7 @@ Je suis un jeune passioné de développement et de programmation en tout genre.
 
 ## 🧐 A propos de moi
 
- Je suis étudiant en développement web à Hetic. <br>
+ Je suis étudiant en 1ère année de développement web à Hetic. <br>
  J'aimerais à terme devenir développeur back-end.
 
 
