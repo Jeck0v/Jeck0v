@@ -8,7 +8,7 @@ I'm a young man with a passion for development and programming of all kinds.
 
 
 
-## 🧐 A propos de moi
+## 🧐 About me
 
  I'm a 1st year web development student at Hetic. 
  Eventually I'd like to become a back-end developer.
