@@ -14,7 +14,7 @@ I'm a young man with a passion for development and programming of all kinds.
  Eventually I'd like to become a back-end developer.
 
 
-##  🛠️ Mes Langages & Outils
+##  🛠️ My Languages & Tools
 ### Front
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://github.com/Jeck0v)
 ### Back
