@@ -1,17 +1,17 @@
-# <p>Hello Moi, c'est Arnaud ! Bienvenue chez moi !</p>
+# <p>Hi I'm Arnaud! Welcome to my home!</p>
 
 <br>
 
-***Actuellement à la recherche d'une Alternance***
+***Currently looking for a work-study placement***
 
-Je suis un jeune passioné de développement et de programmation en tout genre.
+I'm a young man with a passion for development and programming of all kinds.
 
 
 
 ## 🧐 A propos de moi
 
- Je suis étudiant en fin de 1ère année de développement web à Hetic. <br>
- J'aimerais à terme devenir développeur back-end.
+ I'm a 1st year web development student at Hetic. 
+ Eventually I'd like to become a back-end developer.
 
 
 ##  🛠️ Mes Langages & Outils
@@ -25,5 +25,5 @@ Je suis un jeune passioné de développement et de programmation en tout genre.
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,phpstorm,pycharm)](https://github.com/Jeck0v)
 
 
-## ❤️ Me contacter
-Mon lien LinkedIn: www.linkedin.com/in/arnaud-fischer-9616332a2
+## ❤️ Contact me
+My LinkedIn: www.linkedin.com/in/arnaud-fischer-9616332a2
