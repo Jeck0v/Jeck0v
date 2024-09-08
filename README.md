@@ -1,9 +1,9 @@
 # Hello, I'm Arnaud Fischer
 # 💫 About Me: <br>
-🔭 I am currently working at Scouts Capital <br>
+🔭 I am currently working at [Scouts Capital](https://scoutscapital.com/) <br>
 🤝 I'm looking for a traineeship <br>
-🌱 I'm learning Kubernetes, Terraform <br>
-💬 Don't hesitate to contact me: https://www.linkedin.com/in/arnaud-fischer-9616332a2/ <br>
+🌱 I'm learning FastApi, Terraform and Kubernetes <br>
+💬 Don't hesitate to [contact me](https://www.linkedin.com/in/arnaud-fischer-9616332a2/) <br>
 <br>
 
 # 💻 Tech Stack:
