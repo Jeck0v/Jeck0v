@@ -59,9 +59,10 @@ The main goals:
 ---
 
 ## 💬 Let's Connect
-📬 [LinkedIn](https://www.linkedin.com/in/arnaud-fischer-9616332a2/)  
-🐙 [GitHub](https://github.com/Jeck0v)  
+📬 [LinkedIn](https://www.linkedin.com/in/arnaud-fischer-9616332a2/) <br>
+🐙 [My Portfolio](https://arnaudfischer.netlify.app/) <br>
 ☕ If you're building cool things with modern tech, let's talk.
+
 
 ---
 
