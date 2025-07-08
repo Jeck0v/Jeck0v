@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Arnaud Fischer 
 
-## Fullstack Developer | DevOps Enthusiast  | Hackathon Addict
+## Backend Developer | DevOps Enthusiast  | Hackathon Addict
 
  I'm passionate about building modern, scalable, cloud-native apps with **FastAPI**, **Nuxt.js**, and **Google Cloud Platform**.
 
