@@ -35,10 +35,6 @@
 
 🔹 [Aittention](https://github.com/Kae134/Aittention) - Cloud-native pipeline using **FastAPI**, **MongoDB**, **Nginx**, and **Docker** to process images with an AI model for attention heatmap generation. GPU deployment coming soon on GCP.
 
-🔹 [Hackathon Backend Europe](https://github.com/Jeck0v/Hackathon-Europe-2025-Backend) - REST API built during a week hackathon to engage youth in European political life. Stack: **FastAPI**, **MongoDB**, **Nginx**, **Docker**, deployed on AWS.
-
-🔹 [RollerPaperTycoon](https://github.com/Oomaxime/RollerPaperTycon) - Blockchain educational project.
-
 --- 
 
 ## 🧪 Upcoming Lab Work
