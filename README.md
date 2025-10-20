@@ -4,7 +4,7 @@
 
  I'm passionate about building modern, scalable, cloud-native apps with **FastAPI**, **Nuxt.js**, and **Google Cloud Platform**.
 
- Currently working as a Fullstack Developer [@ScoutsCapital](https://scoutscapital.com/)
+ Currently working as a **Backend Developer & DevOps** at Rivage
 
  I build projects to **learn fast**, **break things**, and **have fun**.  
  2x Hackathon Winner:
