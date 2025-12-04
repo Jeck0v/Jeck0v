@@ -65,4 +65,4 @@ The main goals:
 > 🧼 Clean Code = Clean Business  
 > 💥 Let's build, break, and deploy cool stuff.
 
-<a href="https://app.daily.dev/jeck0v"><img src="https://api.daily.dev/devcards/v2/KOsvs7jhWtE129hYPtNma.png?type=default&r=0ln" width="356" alt="Jecko's Dev Card"/></a>
+<a href="https://app.daily.dev/jeck0v"><img src="https://api.daily.dev/devcards/v2/KOsvs7jhWtE129hYPtNma.png?type=default&r=iiz" width="356" alt="Arnaud Fischer's Dev Card"/></a>
