@@ -2,9 +2,9 @@
 
 ## Backend Developer | DevOps Enthusiast  | Hackathon Addict
 
- I'm passionate about building modern, scalable, cloud-native apps with **FastAPI**, **Nuxt.js**, and **Google Cloud Platform**.
+ I'm passionate about building modern, scalable, cloud-native apps with **FastAPI**, **Nginx**, **Docker**, **Kubernetes**, **Terraform** and **Google Cloud Platform**.
 
- Currently working as a **Backend Developer & DevOps** at Rivage
+ Currently working as a **Backend Developer & DevOps Engineer** at Rivage
 
  I build projects to **learn fast**, **break things**, and **have fun**.  
  2x Hackathon Winner:
@@ -28,32 +28,15 @@
 
 ---
 
-## 🛠️ Some Projects I Love
-🔹 [Guts](https://github.com/Jeck0v/Guts) - Rebuilding Git from scratch in **Rust**.
+## Some Projects I Love
+- [Guts](https://github.com/Jeck0v/Guts) - Rebuilding Git from scratch in **Rust**.
 
-🔹 [Athena-DSL](https://github.com/Jeck0v/PUBLIC-Athena-Tools) - Creation of DevOps and back-end tools to increase productivity in **Rust**.
+- [Athena-DSL](https://github.com/Jeck0v/PUBLIC-Athena-Tools) - Creation of DevOps and back-end tools to increase productivity in **Rust**.
 
-🔹 [Aittention](https://www.aittention.eu/) - Cloud-native pipeline using **FastAPI** to create heatmap with an AI model. Try it for free! </br>
-Actually Deployed. Big update coming soon!
+- [Aittention](https://www.aittention.eu/) - Cloud-native pipeline using **FastAPI** to understand where users are really looking, and achieve better conversion rates. </br> Try it for free! 
+Already deployed. A major update is coming soon!
 
 --- 
-
-## 🧪 Upcoming Lab Work
-
-I'm currently designing a self-hosted homelab to support my personal backend projects and DevOps experiments. 
-The main goals:
-
-- Deploy and test backend APIs and microservices without relying on paid cloud providers
-
-- Gain deeper experience with Linux system administration, networking, and security
-
-- Build, automate, and monitor infrastructure using production-grade tools
-
-- Explore the core components of modern cloud architecture (Kubernetes, DNS, reverse proxies, service discovery, etc.)
-
-- Maintain full ownership and observability over my deployments
-
----
 
 ## 💬 Let's Connect
 📬 [LinkedIn](https://www.linkedin.com/in/arnaud-fischer-9616332a2/) <br>
