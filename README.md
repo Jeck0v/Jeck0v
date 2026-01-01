@@ -33,7 +33,8 @@
 
 🔹 [Athena-DSL](https://github.com/Jeck0v/PUBLIC-Athena-Tools) - Creation of DevOps and back-end tools to increase productivity in **Rust**.
 
-🔹 [Aittention](https://github.com/Kae134/Aittention) - Cloud-native pipeline using **FastAPI**, **MongoDB**, **Nginx**, and **Docker** to process images with an AI model for attention heatmap generation. GPU deployment coming soon on GCP.
+🔹 [Aittention](https://www.aittention.eu/) - Cloud-native pipeline using **FastAPI** to create heatmap with an AI model. Try it for free! </br>
+Actually Deployed. Big update coming soon!
 
 --- 
 
