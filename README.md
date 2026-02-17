@@ -4,7 +4,7 @@
 
  I'm passionate about building modern, scalable, cloud-native apps with **FastAPI**, **Nginx**, **Docker**, **Kubernetes**, **Terraform** and **Google Cloud Platform**.
 
- Currently working as a **Backend Developer & DevOps Engineer** at Rivage
+ Currently setting up my start-up, as **co-founder/DevOps and backend developer**.
 
  I build projects to **learn fast**, **break things**, and **have fun**.  
  2x Hackathon Winner:
