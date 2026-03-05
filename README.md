@@ -16,7 +16,7 @@
 ## 💻 My Playground
 
 ###  Backend / APIs
-- **FastAPI**, **Python**, **Node.js**, **Rust**
+- **FastAPI**, **Python**, **Node.js**, **Rust**, **Rust WASM**
 - **MongoDB**, **PostgreSQL**, **Redis**
 - **Nginx**, **Docker**, **Celery**, **JWT / OAuth2**
 
@@ -32,9 +32,6 @@
 - [Guts](https://github.com/Jeck0v/Guts) - Rebuilding Git from scratch in **Rust**.
 
 - [Athena-DSL](https://github.com/Jeck0v/PUBLIC-Athena-Tools) - Creation of DevOps and back-end tools to increase productivity in **Rust**.
-
-- [Aittention](https://www.aittention.eu/) - Cloud-native pipeline using **FastAPI** and our AI model to understand where users are really looking, and achieve better conversion rates. </br> Try it for free! 
-Already deployed. A major update is coming soon!
 
 --- 
 
