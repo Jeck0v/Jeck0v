@@ -23,7 +23,7 @@
 
 ###  DevOps & Cloud
 - **Google Cloud Platform**, **AWS**, **Terraform**, **Kubernetes**
-- **Spacelift**, **GitHub Actions**, **Let’s Encrypt**
+- **Spacelift**, **GitHub Actions**, **Ansible**, **Let’s Encrypt**
 - Monitoring with **Prometheus** + **Grafana**
 
 ---
