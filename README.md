@@ -11,6 +11,9 @@
 - 1st at *Hetic x Publicis Europe 2025*
 - 2nd at *AWS x Hetic HackHetic 2025*
 
+Other Hackathon:
+- HackEurope2026
+
 ---
 
 ## 💻 My Playground
@@ -29,8 +32,9 @@
 ---
 
 ## Some Projects I Love
+- [Spamer Backend](https://github.com/FlipGame-Hetic/Backend) - Creation of the Backend of a Pinball in **Rust**.
+- [Lucyd](https://github.com/Jeck0v/Lucyd) - Creation of a Crate for auto documentation in **Axum**, **Rust** for different protocol (HTTP / WS / MQTT) in a single `/docs`
 - [Guts](https://github.com/Jeck0v/Guts) - Rebuilding Git from scratch in **Rust**.
-
 - [Athena-DSL](https://github.com/Jeck0v/PUBLIC-Athena-Tools) - Creation of DevOps and back-end tools to increase productivity in **Rust**.
 
 --- 
