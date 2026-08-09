@@ -41,7 +41,7 @@ Other Hackathon:
 
 ## 💬 Let's Connect
 📬 [LinkedIn](https://www.linkedin.com/in/arnaud-fischer-9616332a2/) <br>
-🐙 [My Portfolio](https://arnaudfischer.netlify.app/) <br>
+🐙 [My Portfolio](https://arnaud-fischer.vercel.app/) <br>
 ☕ If you're building cool things with modern tech, let's talk.
 
 
