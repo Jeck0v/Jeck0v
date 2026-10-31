@@ -1,52 +1,36 @@
-# 👋 Hey, I'm Arnaud Fischer 
+# Arnaud Fischer
 
-## Backend Developer | DevOps Enthusiast  | Hackathon Addict
+### Entrepreneur · Software Engineer · DevOps
 
- I'm passionate about building modern, scalable, cloud-native apps with **FastAPI**, **Nginx**, **Docker**, **Kubernetes**, **Terraform** and **Google Cloud Platform**.
+Co-founder building SaaS products and engineering the systems behind them
 
- Currently setting up my start-up, as **co-founder/DevOps and backend developer**.
+I focus on **backend engineering, cloud infrastructure and distributed systems**, with a strong interest in **Rust**, Python and Kubernetes
 
- I build projects to **learn fast**, **break things**, and **have fun**.  
- 2x Hackathon Winner:
-- 1st at *Hetic x Publicis Europe 2025*
-- 2nd at *AWS x Hetic HackHetic 2025*
+### Tech Stack
 
-Other Hackathon:
-- HackEurope2026
+- **Frontend:** Vue.js, Nuxt, Next.js, TypeScript, Tailwind CSS
 
----
+- **Backend:** Rust, Python, FastAPI, Node.js, SQL & NoSQL, Redis, Kafka
 
-## 💻 My Playground
+- **Systems & Desktop:** Rust WASM, Tauri
 
-###  Backend / APIs
-- **FastAPI**, **Python**, **Node.js**, **Rust**, **Rust WASM**
-- **MongoDB**, **PostgreSQL**, **Redis**
-- **Nginx**, **Docker**, **Celery**, **JWT / OAuth2**
+- **Infrastructure:** Docker, Kubernetes, Terraform, AWS, GCP, Nginx
 
+- **Tooling & Observability:** GitHub Actions, Jenkins, Prometheus, Grafana, Linux
 
-###  DevOps & Cloud
-- **Google Cloud Platform**, **AWS**, **Terraform**, **Kubernetes**
-- **Spacelift**, **GitHub Actions**, **Ansible**, **Let’s Encrypt**
-- Monitoring with **Prometheus** + **Grafana**
+### Selected Projects
 
----
+- [Lucyd](https://github.com/Jeck0v/Lucyd) - Rust library for automatic API documentation across HTTP, WebSocket and MQTT
+- [Athena](https://github.com/Jeck0v/Athena) - Rust-based DevOps and infrastructure tooling
+- [Guts](https://github.com/Jeck0v/Guts) - Rebuilding Git from scratch in Rust
+- [Spamer](https://github.com/FlipGame-Hetic/) - IoT-powered pinball project built with Rust, Three.js and Rapier.js
 
-## Some Projects I Love
-- [Spamer Backend](https://github.com/FlipGame-Hetic/Backend) - Creation of the Backend of a Pinball in **Rust**.
-- [Lucyd](https://github.com/Jeck0v/Lucyd) - Creation of a Crate for auto documentation in **Axum**, **Rust** for different protocol (HTTP / WS / MQTT) in a single `/docs`
-- [Guts](https://github.com/Jeck0v/Guts) - Rebuilding Git from scratch in **Rust**.
-- [Athena-DSL](https://github.com/Jeck0v/PUBLIC-Athena-Tools) - Creation of DevOps and back-end tools to increase productivity in **Rust**.
+### Beyond Code
 
---- 
+2x Hackathon Winner: HETIC x Publicis Europe 2025 - AWS x HackHetic 2025
 
-## 💬 Let's Connect
-📬 [LinkedIn](https://www.linkedin.com/in/arnaud-fischer-9616332a2/) <br>
-🐙 [My Portfolio](https://arnaud-fischer.vercel.app/) <br>
-☕ If you're building cool things with modern tech, let's talk.
+### Let's Connect
 
+[LinkedIn](https://www.linkedin.com/in/arnaud-fischer-9616332a2) · [Portfolio](https://arnaud-fischer.vercel.app/)
 
----
-
-> 🧼 Clean Code = Clean Business  
-> 💥 Let's build, break, and deploy cool stuff.
-
+*Building companies, engineering systems, and shipping things that matter*
