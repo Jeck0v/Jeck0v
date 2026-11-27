@@ -18,6 +18,16 @@ I focus on **backend engineering, cloud infrastructure and distributed systems**
 
 - **Tooling & Observability:** GitHub Actions, Jenkins, Prometheus, Grafana, Linux
 
+---
+
+### Personal Ventures
+
+[Lys](https://lys-crm.vercel.app/) - The CRM that stays on your machine.
+
+Building a privacy-first CRM for B2B prospecting, with intelligent lead scoring, local AI and a strong focus on data sovereignty. Local AI and data sovereignty features are currently in development.
+
+---
+
 ### Selected Projects
 
 - [Lucyd](https://github.com/Jeck0v/Lucyd) - Rust library for automatic API documentation across HTTP, WebSocket and MQTT
